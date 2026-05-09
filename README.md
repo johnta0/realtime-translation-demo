@@ -5,6 +5,11 @@ server creates a short-lived OpenAI Realtime Translation client secret, and the
 browser uses WebRTC to send captured tab audio and play translated speech with
 captions.
 
+## Reference
+
+This demo is based on the OpenAI Cookbook guide:
+[Realtime translation guide](https://developers.openai.com/cookbook/examples/voice_solutions/realtime_translation_guide).
+
 ## Setup
 
 Create a local `.env` file in this demo folder using `.env.example` as the list
